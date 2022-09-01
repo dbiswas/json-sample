@@ -1,72 +1,72 @@
 {
-  "id": "100",
+  "id": 100,
   "BusinessPartnerCategory": "2",
   "OrganizationBPName1": "DIPANKARBISWAS",
-  “to_BusinessPartnerAddress”: [
+  "to_BusinessPartnerAddress": [
     {
-      “Country”: “US”,
-      “StreetName”: “100MainStreet”,
-      “PostalCode”: “98224”,
-      “CityName”: “SAMMAMISH”,
-      “to_AddressUsage”: [
+      "Country": "US",
+      "StreetName": "100MainStreet",
+      "PostalCode": "98224",
+      "CityName": "SAMMAMISH",
+      "to_AddressUsage": [
         {
-          “AddressUsage”: “XXDEFAULT”
+          "AddressUsage": "XXDEFAULT"
         }
       ]
     }
   ],
-  “to_BusinessPartnerTax”: [
+  "to_BusinessPartnerTax": [
     {
-      “BPTaxType”: ”DE0″,
-      “BPTaxNumber”: ”DE012345678″
+      "BPTaxType": "DE0″,
+      "BPTaxNumber": "DE012345678″
     }
   ]
 },
 {
-  "id": "101",
-  “BusinessPartnerCategory”: “2”,
-  “OrganizationBPName1”: “AMOGHKULKARNI”,
-  “to_BusinessPartnerAddress”: [
+  "id": 101,
+  "BusinessPartnerCategory": "2",
+  "OrganizationBPName1": "AMOGHKULKARNI",
+  "to_BusinessPartnerAddress": [
     {
-      “Country”: “US”,
-      “StreetName”: “200MainStreet”,
-      “PostalCode”: “98224”,
-      “CityName”: “NEWYORK”,
-      “to_AddressUsage”: [
+      "Country": "US",
+      "StreetName": "200MainStreet",
+      "PostalCode": "98224",
+      "CityName": "NEWYORK",
+      "to_AddressUsage": [
         {
-          “AddressUsage”: “XXDEFAULT”
+          "AddressUsage": "XXDEFAULT"
         }
       ]
     }
   ],
-  “to_BusinessPartnerTax”: [
+  "to_BusinessPartnerTax": [
     {
-      “BPTaxType”: ”DE0″,
-      “BPTaxNumber”: ”DE012345679″
+      "BPTaxType": "DE0″,
+      "BPTaxNumber": "DE012345679″
     }
   ]
 },
 {
-  "id": "102",
-  “BusinessPartnerCategory”: “2”,
-  “OrganizationBPName1”: “VARUNABBOTT”,
-  “to_BusinessPartnerAddress”: [
+  "id": 102,
+  "BusinessPartnerCategory": "2",
+  "OrganizationBPName1": "VARUNABBOTT",
+  "to_BusinessPartnerAddress": [
     {
-      “Country”: “US”,
-      “StreetName”: “200MStreet”,
-      “PostalCode”: “95543”,
-      “CityName”: “NEWYORK”,
-      “to_AddressUsage”: [
+      "Country": "US",
+      "StreetName": "200MStreet",
+      "PostalCode": "95543",
+      "CityName": "NEWYORK",
+      "to_AddressUsage": [
         {
-          “AddressUsage”: “XXDEFAULT”
+          "AddressUsage": "XXDEFAULT"
         }
       ]
     }
   ],
-  “to_BusinessPartnerTax”: [
+  "to_BusinessPartnerTax": [
     {
-      “BPTaxType”: ”DE0″,
-      “BPTaxNumber”: ”DE012345680″
+      "BPTaxType": "DE0″,
+      "BPTaxNumber": "DE012345680″
     }
   ]
 }
