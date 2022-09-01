@@ -1,7 +1,7 @@
 {
-  "id": 100,
-  “BusinessPartnerCategory”: “2”,
-  “OrganizationBPName1”: “DIPANKARBISWAS”,
+  "id": "100",
+  "BusinessPartnerCategory": "2",
+  "OrganizationBPName1": "DIPANKARBISWAS",
   “to_BusinessPartnerAddress”: [
     {
       “Country”: “US”,
@@ -23,7 +23,7 @@
   ]
 },
 {
-  "id": 101,
+  "id": "101",
   “BusinessPartnerCategory”: “2”,
   “OrganizationBPName1”: “AMOGHKULKARNI”,
   “to_BusinessPartnerAddress”: [
@@ -47,7 +47,7 @@
   ]
 },
 {
-  "id": 102,
+  "id": "102",
   “BusinessPartnerCategory”: “2”,
   “OrganizationBPName1”: “VARUNABBOTT”,
   “to_BusinessPartnerAddress”: [
