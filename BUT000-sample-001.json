@@ -17,8 +17,8 @@
   ],
   "to_BusinessPartnerTax": [
     {
-      "BPTaxType": "DE0″,
-      "BPTaxNumber": "DE012345678″
+      "BPTaxType": "DE0",
+      "BPTaxNumber": "DE012345678"
     }
   ]
 },
@@ -41,8 +41,8 @@
   ],
   "to_BusinessPartnerTax": [
     {
-      "BPTaxType": "DE0″,
-      "BPTaxNumber": "DE012345679″
+      "BPTaxType": "DE0",
+      "BPTaxNumber": "DE012345679"
     }
   ]
 },
@@ -65,8 +65,8 @@
   ],
   "to_BusinessPartnerTax": [
     {
-      "BPTaxType": "DE0″,
-      "BPTaxNumber": "DE012345680″
+      "BPTaxType": "DE0",
+      "BPTaxNumber": "DE012345680"
     }
   ]
 }
